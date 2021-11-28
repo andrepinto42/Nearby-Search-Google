@@ -56,9 +56,13 @@ for business in business_list:
     # Writes all tags in the format [bar,point_interest]
     allTags = '['
     tags = business.get('types')
-    for i in range(len(tags) -1):
+    sT = len(tags)
+    for i in range(sT -1):
         allTags += tags[i] + ','
-    allTags += tags[len(tags)-1] + ']'
+    if (sT > 0):
+        allTags += tags[sT-1]
+    
+    allTags += ']'
     
     f.write(
     str(business.get('name')) + ';'
