@@ -1,6 +1,9 @@
 import googlemaps
 import pandas as pd
 import time
+import sys
+
+
 
 def GetNearbySearchNext(nextPageToken):
     return map_client.places_nearby(
@@ -20,8 +23,10 @@ map_client = googlemaps.Client(API_KEY)
 
 # Location in latitude and longitude
 location = (41.56046969661545, -8.396341199436238)
-# What you are searching for:
+# What you are searching for, or if you call this script with one argument with will use it
 search_string = 'restaurant'
+if (len(sys.argv) ==2) : search_string = str(sys.argv[1])
+
 # Distance in meters
 distance = 1000
 # Filename output
@@ -42,17 +47,29 @@ while next_page_token:
     next_page_token = response.get('next_page_token')
 
 f = open(outputName, "w")
-f.write("Name;Place_ID;Price_Level;Rating;UserRatings\n")
+f.write("Name;Place_ID;Price_Level;Rating;UserRatings;Tags;Latitude|Longitude\n")
 
 for business in business_list:     
+    # Caching the location
+    locationBusiness = business.get('geometry').get('location')
+    
+    # Writes all tags in the format [bar,point_interest]
+    allTags = '['
+    tags = business.get('types')
+    for i in range(len(tags) -1):
+        allTags += tags[i] + ','
+    allTags += tags[len(tags)-1] + ']'
+    
     f.write(
     str(business.get('name')) + ';'
     + str(business.get('place_id')) + ';'
     + str(business.get('price_level')) + ';'
     + str(business.get('rating')) + ';'
-    + str(business.get('user_ratings_total')) + "\n"
+    + str(business.get('user_ratings_total'))  +';'
+    + allTags +';'
+    + str(locationBusiness.get('lat')) + '|' + str(locationBusiness.get('lng')) + "\n"
     )
 
 f.close()
-print("Script done writing to " + outputName)
+print("Script done writing to " + outputName + " using the keyword " + search_string)
 

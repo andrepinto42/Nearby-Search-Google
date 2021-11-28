@@ -1,0 +1,40 @@
+Name;Place_ID;Price_Level;Rating;UserRatings;Tags;Latitude|Longitude
+UMinhoExec - Escola de Executivos da Universidade do Minho;ChIJqa7QKjj_JA0RB7QQ9kKHV0o;None;0;0;[school,point_of_interest,establishment];41.5607319|-8.3962368
+CLIB - International School Of Braga;ChIJlfIKOSz8JA0Rp_JLu1zM3A4;None;3.7;17;[school,point_of_interest,establishment];41.5697297|-8.388428400000002
+School of Medicine;ChIJX_bDXIP-JA0R9nRIkhSibs8;None;4.8;44;[university,health,point_of_interest,establishment];41.563984|-8.401354999999999
+Colegio JPII;ChIJ4WB8Qmz_JA0Reyt5t5STBNE;None;0;0;[school,point_of_interest,establishment];41.5693062|-8.4056742
+Deus Baco;ChIJL8IYIJL_JA0RIyX2qxY657Q;None;0;0;[school,point_of_interest,establishment];41.5581186|-8.3984174
+Colegio joao paulo ll - 7 fontes;ChIJIREkfLX_JA0RfgRbK1XGwkk;None;0;0;[school,point_of_interest,establishment];41.5684148|-8.406995799999999
+Escola;ChIJ-ZeH3MP_JA0RDBhwb7EGtHQ;None;0;0;[school,point_of_interest,establishment];41.5577992|-8.398846599999999
+EDUCERE - Formação e Consultoria;ChIJC5uSi57-JA0RuAOy8ATHd64;None;0;0;[school,point_of_interest,establishment];41.557113|-8.399532599999999
+Alumni Medicina;ChIJv1SgZ4P-JA0RRz-q4VNVyc8;None;5;1;[university,health,point_of_interest,establishment];41.564273|-8.401451
+Jardim infância do monte Nogueira;ChIJnVYCzL79JA0RuFx0FfkPPBg;None;0;0;[school,point_of_interest,establishment];41.5621543|-8.394236
+Escola Básica N1 de Gualtar;ChIJh_JujyH9JA0R13yzHNFayns;None;0;0;[school,point_of_interest,establishment];41.5663692|-8.387096
+E.B1 de Gualtar;ChIJIQYWV1n9JA0RuyzVo3vv-Tc;None;0;0;[primary_school,school,point_of_interest,establishment];41.56674599999999|-8.387043
+Espaço Rui Barros;ChIJQ0dOpQz_JA0Rg4oHMLcyMsw;None;0;0;[school,point_of_interest,establishment];41.553357|-8.40035
+Colegio Nossa Senhora Da Assuncao;ChIJV25Tex_8JA0RZGTx5f33w8A;None;0;0;[school,point_of_interest,establishment];41.553317|-8.393075
+Entrada Universidade do Minho - Braga;ChIJM3MGw53-JA0RqP7z8Bz5dao;None;0;0;[school,point_of_interest,establishment];41.55899160000001|-8.398072899999999
+EB1/JI do Bairro da Alegria;ChIJL2k_vIT-JA0RXqDtwbvh8wc;None;4.6;5;[school,point_of_interest,establishment];41.5638599|-8.402921
+Escola de Engenharia I;ChIJhV7ZZZ3-JA0RqPj-QGEQG3A;None;0;0;[university,point_of_interest,establishment];41.5616998|-8.3970674
+Escola de Engenharia II - Departamento de Engenharia Civil - 2º e 3ºpisos;ChIJ4XE8WJz-JA0RXjaREmkXzB8;None;4.5;2;[school,point_of_interest,establishment];41.5604804|-8.399977
+Obra Social Sagrado Coração de Maria (OSSCM);ChIJDbCQxZ7_JA0RRuRmeVpakTQ;None;5;2;[school,point_of_interest,establishment];41.5602639|-8.402404599999999
+Instituto De Ciências Sociais;ChIJL0z0WJz-JA0Rr7I_lqnVxR4;None;5;1;[school,point_of_interest,establishment];41.5604753|-8.400103
+Basic school Gualtar;ChIJOVZOVy78JA0RjOE1gy7ecoU;None;3.4;12;[secondary_school,school,point_of_interest,establishment];41.5669867|-8.38796
+Nuguelmusic - Academia de música e artes do espetáculo;ChIJj60gUpj-JA0RdNFAN57jQCE;None;4.7;26;[point_of_interest,establishment];41.5549121|-8.4052965
+Escola Básica N.º 1 de Gualtar;ChIJYbGG5nT9JA0RWW8CDJPldT4;None;0;0;[secondary_school,school,point_of_interest,establishment];41.5666654|-8.3869765
+Apfel - Escola Formação Profissional e Consultoria;ChIJ_f9ouTH_JA0RiFBgN-I6VmU;None;5;23;[school,secondary_school,point_of_interest,establishment];41.55580579999999|-8.399842
+CCTIC da Universidade do Minho;ChIJST5GSJz-JA0R2_FGh59sbyY;None;0;0;[school,point_of_interest,establishment];41.5597028|-8.399605
+Colégio João Paulo II - Pólo de 7 fontes;ChIJR2mEEJL_JA0R1fjGRspgd_M;None;4.9;10;[school,point_of_interest,establishment];41.5693995|-8.4066714
+Complexo Pedagogico II-Uminho;ChIJez57lp3-JA0RO-3e9vy15wg;None;4;2;[school,point_of_interest,establishment];41.5598839|-8.397648499999999
+Bogalha;ChIJC_IGAJv-JA0RaObkm45Y3N8;None;4.2;6;[school,point_of_interest,establishment];41.5602431|-8.4046868
+EB 1 Nogueiró;ChIJi05qBhn8JA0R1xKUwz5X70k;None;3.5;2;[school,point_of_interest,establishment];41.5509567|-8.3885155
+Escola Condução Bela Vista;ChIJa-GLe57-JA0RUxjJQjTf_Sg;None;5;1;[school,point_of_interest,establishment];41.5577695|-8.3988748
+Gabinete de Inclusão;ChIJv-00jXT9JA0RR6dMlKXyeFk;None;0;0;[school,point_of_interest,establishment];41.5630128|-8.3932522
+Centro Social da Paroquia De Gualtar;ChIJw2oMti78JA0RAyew2X56SDs;None;0;0;[school,point_of_interest,establishment];41.5675216|-8.3906438
+LIP-Minho;ChIJZ4ENnp3-JA0R5eajhBlksTs;None;0;0;[school,point_of_interest,establishment];41.5606924|-8.3974577
+Forgep;ChIJxVevx6H_JA0RUpzn7O9OI9I;None;0;0;[school,point_of_interest,establishment];41.559332|-8.3982724
+ESTÚDIO VATAYAN;ChIJY3FkeKD-JA0RkbtO5llXXOU;None;0;0;[school,point_of_interest,establishment];41.5513869|-8.3965245
+Núcleo de Estudantes de Medicina da Universidade do Minho (NEMUM);ChIJTSBwQ4P-JA0Rc_S7wrcm89c;None;4.6;5;[university,health,point_of_interest,establishment];41.5640084|-8.4019209
+Jardim de Infância de Nogueiró;ChIJ2eUFMQD9JA0R9hNJ32aG9Yg;None;0;0;[school,point_of_interest,establishment];41.551028|-8.388599
+Calouste Gulbenkian Music Conservatory of Braga;ChIJOwRBgL3-JA0RK4hRq-e-Rbs;None;4.5;93;[point_of_interest,establishment];41.5525916|-8.4099524
+Nico De Gente Lda;ChIJO7PLnjH8JA0RAdcexhSAvfQ;None;4.7;9;[school,point_of_interest,establishment];41.5682465|-8.383072199999999
